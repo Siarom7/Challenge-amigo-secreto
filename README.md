@@ -17,9 +17,13 @@ Foi feito em cima de arquivos da Alura, por meio de JavaScript.
 
 ## Propostas de melhorias
 • Adicionar um nome a lista apertando o botão <ENTER> do teclado.
+
 • Colocar recursos de acessibilidade.
-• Adaptar a outras plataformas
-• Criar um método de "convite" feito pelo usuário
+
+• Adaptar a outras plataformas.
+
+• Criar um método de "convite" feito pelo usuário.
+
 • Criar box preenchida pelos usuários participantes estipulando as regras do amigo secreto, como limite de preço, tipo de presente, etc. 
 
 ## Inserindo os nomes
